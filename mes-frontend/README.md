@@ -4,7 +4,7 @@ A robust, multi-tenant Full-Stack MERN application designed to simulate a Manufa
 
 ## Live Demo
 
-(You can add your deployment link here once the app is deployed.)
+https://mes-dashboard-three.vercel.app/
 
 ##  Project Overview
 
